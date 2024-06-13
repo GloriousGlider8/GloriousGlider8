@@ -4,13 +4,13 @@
 
 **GitHub Stats**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GloriousGlider8)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GloriousGlider8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GloriousGlider8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **WakaTime Stats**
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GloriousGlider8)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GloriousGlider8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Dynamic Profile made possible by:**
 
