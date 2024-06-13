@@ -12,8 +12,10 @@
 
 **WakaTime Stats**
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GloriousGlider8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My WakaTime stats DARK THEME](https://github-readme-stats.vercel.app/api/wakatime?username=GloriousGlider8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My WakaTime stats LIGHT THEME](https://github-readme-stats.vercel.app/api/wakatime?username=GloriousGlider8&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 **Dynamic Profile made possible by:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card DARK THEME](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Readme Card LIGHT THEME](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
