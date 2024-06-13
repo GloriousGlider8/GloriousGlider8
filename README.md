@@ -4,7 +4,8 @@
 
 **GitHub Stats**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GloriousGlider8&layout=compact&rank_icon=percentile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GloriousGlider8&layout=compact&rank_icon=percentile&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GloriousGlider8&layout=compact&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GloriousGlider8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
