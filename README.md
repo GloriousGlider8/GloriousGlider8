@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## My Stats
 
 **GitHub Stats**
@@ -19,3 +17,8 @@
 
 [![Readme Card DARK THEME](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Readme Card LIGHT THEME](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+## Repositories
+
+[![CKVS DARK THEME](https://github-readme-stats.vercel.app/api/pin/?username=GloriousGlider8&repo=ckvs&show_owner=false&theme=dark)](https://github.com/GloriousGlider8/ckvs#gh-dark-mode-only)
+[![CKVS LIGHT THEME](https://github-readme-stats.vercel.app/api/pin/?username=GloriousGlider8&repo=ckvs&show_owner=false&theme=light)](https://github.com/GloriousGlider8/ckvs#gh-light-mode-only)
